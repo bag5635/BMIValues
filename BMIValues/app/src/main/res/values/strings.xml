@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI Values</string>
+
+    <string name="Weight">Weight</string>
+    <string name='Weight_Hint'>Weight (Pounds)</string>
+
+    <string name='Height'>Height</string>
+    <string name="Height_Hint">Height (Inches)</string>
+    <string name="button_calculate">CALCULATE BMI</string>
+    <string name="list">BMI VALUES
+                        \nUnderweight:  less than 18.5
+                        \nNormal:  between 18.5 and 24.9
+                        \nOverweight:  between 25 and 29.9
+                        \nObese:  30 or greater
+    </string>
+
+
+
+</resources>
